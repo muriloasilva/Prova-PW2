@@ -9,3 +9,5 @@ routes.put("/produto/alterar/:id", ProductController.alterarProduto)
 routes.delete("/produto/delete/:id", ClientController.deletarProduto)
 
 export { routes }
+
+/* teste */
